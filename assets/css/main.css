@@ -2071,9 +2071,9 @@ input, select, textarea {
 		-webkit-justify-content: center;
 		-ms-justify-content: center;
 		justify-content: center;
-		position: relative;
+		position: top;
 		height: 24em;
-		background: url("../../images/FB_IMG_1533215903236.jpg") center center;
+		background: url("../../images/PicsArt_08-02-08.22.10.jpg") center center;
 		background-size: cover;
 		padding: 0;
 	}
