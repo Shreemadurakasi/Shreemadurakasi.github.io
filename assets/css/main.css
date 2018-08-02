@@ -2071,7 +2071,7 @@ input, select, textarea {
 		-webkit-justify-content: center;
 		-ms-justify-content: center;
 		justify-content: center;
-		position: top;
+		position: relative;
 		height: 24em;
 		background: url("../../images/PicsArt_08-02-08.22.10.jpg") center center;
 		background-size: cover;
