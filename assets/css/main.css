@@ -1621,6 +1621,13 @@ input, select, textarea {
 			width: 100%;
 			margin: 0 0 2em 0;
 		}
+		
+		.sizing1 {
+			display: block;
+			height: absolute;
+			width: absolute;
+			margin: 0 0 2em 0;
+		}
 
 /* Button */
 
